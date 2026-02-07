@@ -1,4 +1,4 @@
 {
-  "status": "ATIVO",
-  "message": "Sistema liberado"
+  "status": "BLOQUEADO",
+  "message": "Pagamento pendente"
 }
